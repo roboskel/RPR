@@ -1,0 +1,27 @@
+<package>
+  <description brief="attempt">
+
+     attempt
+
+  </description>
+  <author>javi</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/attempt</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="laser_geometry"/>
+  <depend package="sensor_msgs"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+
+  <depend package="image_transport"/>
+  <depend package="std_srvs"/>
+  <depend package="sdc2130_skel"/>
+
+  <depend package="pcl16"/>
+  <depend package="pcl16_ros"/>
+</package>
+
+
